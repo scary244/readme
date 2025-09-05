@@ -47,17 +47,6 @@ public:
 - 🛡️ **Diving deep into Cybersecurity**
 - 🐧 **Mastering Kali Linux and security tools**
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scary244&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scary244&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scary244&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="scary244's streak"/>
-</div>
-
 ## 🌟 Featured Projects
 
 ### 🔗 [ObsidianCopilotLink](https://github.com/scary244/ObsidianCopilotLink)
